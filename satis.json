@@ -1,0 +1,229 @@
+{
+  "name": "jungleran/composer-repository",
+  "homepage": "https://jungleran.github.io/composer-repository",
+  "repositories": {
+    "drupal-library-content-browser/masonry": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-content-browser/masonry",
+        "version": "3.3.2",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/desandro/masonry/archive/v3.3.2.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-select2/select2": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-select2/select2",
+        "version": "4.0.12",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/select2/select2/archive/4.0.12.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-dropzonejs/dropzone": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-dropzonejs/dropzone",
+        "version": "5.5.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/enyo/dropzone/archive/v5.5.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-fontawesome/fontawesome": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-fontawesome/fontawesome",
+        "version": "5.7.2",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://use.fontawesome.com/releases/v5.7.2/fontawesome-free-5.7.2-web.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker",
+        "version": "3.2.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/farbelous/fontawesome-iconpicker/archive/3.2.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-month-year/jquery.mtz.monthpicker": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-month-year/jquery.mtz.monthpicker",
+        "version": "master",
+        "type": "drupal-library",
+        "source": {
+          "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    },
+    "drupal-library-custom-admin-lte/fontawesome4": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-custom-admin-lte/fontawesome4",
+        "version": "4.7.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/FortAwesome/Font-Awesome/archive/v4.7.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-custom-admin-lte/admin-lte": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-custom-admin-lte/admin-lte",
+        "version": "2.4.10",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/ColorlibHQ/AdminLTE/archive/v2.4.10.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-custom-admin-lte/custom-event-polyfill": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-custom-admin-lte/custom-event-polyfill",
+        "version": "1.0.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/krambuhl/custom-event-polyfill/archive/1.0.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-colorbox/colorbox": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-colorbox/colorbox",
+        "version": "dev-master",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/jackmoore/colorbox/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "lucianocosta/jquery.mtz.monthpicker": {
+      "type": "package",
+      "package": {
+        "name": "lucianocosta/jquery.mtz.monthpicker",
+        "version": "dev-master",
+        "type": "drupal-library",
+        "source": {
+          "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
+          "type": "git",
+          "reference":"master"
+        }
+      }
+    },
+    "drupal-library/wow.js": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/wow.js",
+        "version": "1.1.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/matthieua/WOW/archive/1.1.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library/jquery-countto": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/jquery-countto",
+        "version": "1.2.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/mhuggins/jquery-countTo/archive/v1.2.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library/waypoints": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/waypoints",
+        "version": "4.0.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/imakewebthings/waypoints/archive/4.0.1.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library/owlcarousel2": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/owlcarousel2",
+        "version": "2.3.4",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/OwlCarousel2/OwlCarousel2/archive/2.3.4.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library/paraxify.js": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/paraxify.js",
+        "version": "0.0.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/jaicab/Paraxify.js/archive/v0.1.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library/d3": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/d3",
+        "version": "3.5.17",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/d3/d3/releases/download/v3.5.17/d3.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library/highlightjs": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/highlightjs",
+        "version": "9.7.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/highlightjs/highlight.js/archive/9.7.0.zip",
+          "type": "zip"
+        }
+      }
+    }
+  },
+  "require": 
+    {
+      "drupal-library/highlightjs":"9.7.0"
+    
+    }
+}
