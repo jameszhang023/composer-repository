@@ -1,6 +1,6 @@
 {
   "name": "jungleran/composer-repository",
-  "homepage": "https://jungleran.github.io/composer-repository",
+  "homepage": "https://jameszhang023.github.io/composer-repository",
   "repositories": {
     "drupal-library-content-browser/masonry": {
       "type": "package",
