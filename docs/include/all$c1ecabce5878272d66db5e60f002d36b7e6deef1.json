@@ -217,6 +217,18 @@
                 },
                 "type": "drupal-library"
             }
+        },
+        "sparksuite/simplemde-markdown-editor": {
+            "1.11.2": {
+                "name": "sparksuite/simplemde-markdown-editor",
+                "version": "1.11.2",
+                "version_normalized": "1.11.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/sparksuite/simplemde-markdown-editor/archive/1.11.2.zip"
+                },
+                "type": "drupal-library"
+            }
         }
     }
 }

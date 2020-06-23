@@ -219,6 +219,18 @@
           "type": "zip"
         }
       }
+    },
+    "library-simplemde": {
+        "type": "package",
+        "package": {
+            "name": "sparksuite/simplemde-markdown-editor",
+            "version": "1.11.2",
+            "type": "drupal-library",
+            "dist": {
+                "url": "https://github.com/sparksuite/simplemde-markdown-editor/archive/1.11.2.zip",
+                "type": "zip"
+            }
+        }
     }
   },
   "require": {
@@ -239,7 +251,8 @@
     "drupal-library/owlcarousel2":"2.3.4",
     "drupal-library/paraxify.js":"0.0.1",
     "drupal-library/d3":"3.5.17",
-    "drupal-library/highlightjs":"9.7.0"
+    "drupal-library/highlightjs":"9.7.0",
+    "sparksuite/simplemde-markdown-editor":"1.11.2"
 
   }
 }
