@@ -221,9 +221,25 @@
       }
     }
   },
-  "require": 
-    {
-      "drupal-library/highlightjs":"9.7.0"
-    
-    }
+  "require": {
+    "drupal-library-content-browser/masonry":"3.3.2",
+    "drupal-library-select2/select2":"4.0.12",
+    "drupal-library-dropzonejs/dropzone":"5.5.0",
+    "drupal-library-fontawesome/fontawesome":"5.7.2",
+    "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker":"3.2.0",
+    "drupal-library-month-year/jquery.mtz.monthpicker":"master",
+    "drupal-library-custom-admin-lte/fontawesome4":"4.7.0",
+    "drupal-library-custom-admin-lte/admin-lte":"2.4.10",
+    "drupal-library-custom-admin-lte/custom-event-polyfill":"1.0.0",
+    "drupal-library-colorbox/colorbox":"dev-master",
+    "lucianocosta/jquery.mtz.monthpicker":"dev-master",
+    "drupal-library/wow.js":"1.1.0",
+    "drupal-library/jquery-countto":"1.2.0",
+    "drupal-library/waypoints":"4.0.1",
+    "drupal-library/owlcarousel2":"2.3.4",
+    "drupal-library/paraxify.js":"0.0.1",
+    "drupal-library/d3":"3.5.17",
+    "drupal-library/highlightjs":"9.7.0"
+
+  }
 }
