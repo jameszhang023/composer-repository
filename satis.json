@@ -33,7 +33,7 @@
         "version": "5.5.0",
         "type": "drupal-library",
         "dist": {
-          "url": "https://github.com/enyo/dropzone/archive/v5.5.0.zip",
+          "url": "https://github.com.cnpmjs.org/enyo/dropzone/archive/v5.5.0.zip",
           "type": "zip"
         }
       }
