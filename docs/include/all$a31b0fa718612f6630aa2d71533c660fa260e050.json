@@ -61,13 +61,13 @@
             }
         },
         "drupal-library-dropzonejs/dropzone": {
-            "5.5.0": {
+            "5.7.2": {
                 "name": "drupal-library-dropzonejs/dropzone",
-                "version": "5.5.0",
-                "version_normalized": "5.5.0.0",
+                "version": "5.7.2",
+                "version_normalized": "5.7.2.0",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/enyo/dropzone/archive/v5.5.0.zip"
+                    "url": "https://github.com/enyo/dropzone/archive/v5.7.2.zip"
                 },
                 "type": "drupal-library"
             }
