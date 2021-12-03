@@ -220,6 +220,18 @@
         }
       }
     },
+    "library-easymarkdowneditor": {
+        "type": "package",
+        "package": {
+            "name": "ionaru/easy-markdown-editor",
+            "version": "2.15.0",
+            "type": "drupal-library",
+            "dist": {
+                "url": "https://github.com/Ionaru/easy-markdown-editor/archive/refs/tags/2.15.0.zip",
+                "type": "zip"
+            }
+        }
+    },
     "library-simplemde": {
         "type": "package",
         "package": {
@@ -252,6 +264,7 @@
     "drupal-library/paraxify.js":"0.0.1",
     "drupal-library/d3":"3.5.17",
     "drupal-library/highlightjs":"9.7.0",
+    "ionaru/easy-markdown-editor":"2.15.0",
     "sparksuite/simplemde-markdown-editor":"1.11.2"
 
   }

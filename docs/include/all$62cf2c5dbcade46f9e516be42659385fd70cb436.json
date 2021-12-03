@@ -205,6 +205,18 @@
                 "type": "drupal-library"
             }
         },
+        "ionaru/easy-markdown-editor": {
+            "2.15.0": {
+                "name": "ionaru/easy-markdown-editor",
+                "version": "2.15.0",
+                "version_normalized": "2.15.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Ionaru/easy-markdown-editor/archive/refs/tags/2.15.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "lucianocosta/jquery.mtz.monthpicker": {
             "dev-master": {
                 "name": "lucianocosta/jquery.mtz.monthpicker",
